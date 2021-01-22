@@ -1,0 +1,28 @@
+.done {
+  text-decoration: line-through;
+}
+
+li {
+  display: flex;
+  width: 12rem;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  color: brown;
+}
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.center-container {
+  width: 12rem;
+  background: burlywood;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(42, 32, 32);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5rem;
+}
